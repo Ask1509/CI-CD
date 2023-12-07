@@ -37,7 +37,7 @@ testdocker:
 ![list of containers](/img/VirtualBox_cibox_11.png)
 
 Pipeline passed
-![pipeline passed](/img/VirtualBox_cibox42.png)
+![pipeline passed](https://github.com/Ask1509/CI-CD/blob/3999c2711dc084a29ca57f63faba6ac1c41090f8/CI-CD_Seminar02/img/VirtualBox_cibox42.png)
 
 ## Замечание
 При создании образа (раздел `docker build:`) — появлялась проблема нехватки прав.
