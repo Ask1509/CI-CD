@@ -37,7 +37,7 @@ testdocker:
 ![list of containers](img/VirtualBox_cibox_30_11_2023_11_44_11.png "list of containers")
 
 Pipeline passed
-![pipeline passed](img/VirtualBox_cibox_30_11_2023_11_44_42.png "pipeline passed")
+![pipeline passed](\)
 
 ## Замечание
 При создании образа (раздел `docker build:`) — появлялась проблема нехватки прав.
