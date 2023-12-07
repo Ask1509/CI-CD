@@ -31,13 +31,13 @@ testdocker:
 
 ## Скриншоты
 Добавляем блок тестирования (тянем образ контейнера).
-![docker container test](CI-CD_Seminar02/img/VirtualBox_ciibox19.png)
+![docker container test](/img/VirtualBox_ciibox19.png)
 
 Просматриваем список созданных контейнеров (ишь, расплодились!).
-![list of containers](CI-CD_Seminar02/img/VirtualBox_cibox_11.png)
+![list of containers](/img/VirtualBox_cibox_11.png)
 
 Pipeline passed
-![pipeline passed](CI-CD_Seminar02/img/VirtualBox_cibox42.png)
+![pipeline passed](/img/VirtualBox_cibox42.png)
 
 ## Замечание
 При создании образа (раздел `docker build:`) — появлялась проблема нехватки прав.
