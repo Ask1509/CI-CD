@@ -31,10 +31,10 @@ testdocker:
 
 ## Скриншоты
 Добавляем блок тестирования (тянем образ контейнера).
-![docker container test](/img/VirtualBox_ciibox19.png)
+![docker container test](https://github.com/Ask1509/CI-CD/blob/0386069191e2f1aa02a542414f3b40bd61fc428c/CI-CD_Seminar02/img/VirtualBox_ciibox19.png)
 
 Просматриваем список созданных контейнеров (ишь, расплодились!).
-![list of containers](/img/VirtualBox_cibox_11.png)
+![list of containers](https://github.com/Ask1509/CI-CD/blob/0386069191e2f1aa02a542414f3b40bd61fc428c/CI-CD_Seminar02/img/VirtualBox_cibox_11.png)
 
 Pipeline passed
 ![pipeline passed](https://github.com/Ask1509/CI-CD/blob/3999c2711dc084a29ca57f63faba6ac1c41090f8/CI-CD_Seminar02/img/VirtualBox_cibox42.png)
