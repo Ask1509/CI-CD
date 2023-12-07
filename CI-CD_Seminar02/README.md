@@ -39,7 +39,7 @@ testdocker:
 Pipeline passed
 ![pipeline passed](https://github.com/Ask1509/CI-CD/blob/3999c2711dc084a29ca57f63faba6ac1c41090f8/CI-CD_Seminar02/img/VirtualBox_cibox42.png)
 
-## Замечание
+## Примечание
 При создании образа (раздел `docker build:`) — появлялась проблема нехватки прав.
 
 `Got permission denied while trying to connect to the Docker daemon socket at… `
