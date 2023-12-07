@@ -19,10 +19,7 @@ smoke-test-job:
 ```yaml
 include:
   - local: local-smoke-tests.gitlab-ci.yml
-#  - remote: https://github.com/Valinetsky/-CI-CD_Seminar04/blob/main/remote-included-file.yml
-# К сожалению, ни собственные файлы в моих репозиториях, ни ссылка на гитхаб не сработали
-# Поэтому взял ссылку у Максима Бобкова:
-  - remote: https://gitlab.com/ci-cd7655047/5/-/raw/main/remote-included-file.yml
+#  - remote: https://github.com/DeleteDone/CI-CD/blob/main/CI-CD_Seminar04/remote_included-file.yml
 ```
 
 Файл с аналогичным содержанием, что и у Максима, есть в этом репозитории: `remote_included-file.yml`
@@ -30,16 +27,11 @@ include:
 
 
 Repository Seminar04
-![repository](img/VirtualBox_cibox_04_12_2023_19_02_47.png "repository")
+![repository](https://github.com/DeleteDone/CI-CD/blob/cc385952cf4bed5396ed123a4e301f0f7aac2271/CI-CD_Seminar04/img/VirtualBox_cibox_47.png)
 
 Remote included file job
-![remote included file job](img/VirtualBox_cibox_04_12_2023_19_10_01.png "remote included file job")
+![remote included file job](https://github.com/DeleteDone/CI-CD/blob/d1a9141ed78762ec6f63a29483ef7f9e43e1552a/CI-CD_Seminar04/img/VirtualBox_cibox_01.png)
 
 Pipeline passed
-![pipeline passed](img/VirtualBox_cibox_04_12_2023_19_10_34.png "pipeline passed")
+![pipeline passed](https://github.com/DeleteDone/CI-CD/blob/49c518623b7b86f7c06772eb395a5bce88beae55/CI-CD_Seminar04/img/VirtualBox_cibox_34.png)
 
-## Благодарность
-Спасибо Максиму Бобкову, без его кода pipeline не взлетал. Ссылка на гитхаб [тут](https://github.com/biramax/ "https://github.com/biramax/").
-
-## Заключение
-Курс дался не просто! От проблем с регистрацией, до работы с отдельностоящими удаленными репозиториями. Хотя, казалось бы `include` — стандартная копия импорта в языках программирования. Однако, задачи решены, а больше опыта можно взять на практических задачах. Ура!
